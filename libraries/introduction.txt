@@ -1,0 +1,1 @@
+This folder contains all the library files required to run the snooker program. p5.js and matter.js is utilised in this project. 
